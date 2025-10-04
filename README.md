@@ -1,26 +1,40 @@
-# Clock
-# Python Clock Application
+# ⏰ Digital Clock - PyQt5  
 
-A simple Python-based clock application that includes the following features:
-- **Current Time**: Displays the current time.
-- **Timer**: Set a countdown timer and it will notify you when time is up.
-- **Stopwatch**: Allows you to measure running time.
+This project is a simple **Digital Clock GUI** made using **PyQt5** in Python.  
+It displays the current system time in **12-hour format with AM/PM**.  
 
-## Features
+---
 
-- **Current Time Display**: Displays real-time updates of the current date and time.
-- **Timer**: Set a countdown timer in seconds, and it will notify you when the timer reaches zero.
-- **Stopwatch**: Start and stop the stopwatch to measure time intervals, along with the ability to reset it.
+## 🚀 Features  
+- ⏱ Live time updates every second  
+- 🕐 12-hour format with AM/PM  
+- 🎨 Styled using CSS inside Python  
+- 🟢 Lightweight and beginner-friendly  
 
-## Installation
+---
 
-To use this project, you'll need to have Python installed on your computer. You can download Python from the official website:
+## 📦 Requirements  
+- Python 3.x  
+- PyQt5  
 
-[Download Python](https://www.python.org/downloads/)
-
-### Dependencies
-
-Make sure to install the necessary dependencies using pip:
+Install dependencies with:  
 
 ```bash
-pip install -r requirements.txt
+pip install PyQt5
+```
+---
+
+## ▶️ How to Run
+
+1. Clone or download this repository
+
+2. save the script as digital_clock.py
+
+Run the file:
+```bash
+python digital_clock.py
+```
+---
+## 👨‍💻 Author  
+Made with ❤️ by [Aman](https://github.com/Aman-0309/digital_clock)
+
